@@ -13,6 +13,7 @@ body {
   animation: gradient 15s ease infinite;
   height: 100vh;
   font-family: "Gaegu", cursive;
+  font-size: 25px;
 }
 
 .bg-wrap {
@@ -44,7 +45,7 @@ body {
   width: 100px;
   height: 100px;
   animation: heartbeat 1s infinite;
-  font-size: 16px;
+  font-size: 25px;
 }
 
 .bg-heart:nth-of-type(2n) {
